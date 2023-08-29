@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T07:25:45.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="f23skiZcrCIxk-aUyeEo" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T07:36:47.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="NmLxS3zSqQpz-Lo5yVoD" version="21.6.9" type="github">
   <diagram name="페이지-1" id="-PeFCKM8A_X5uczBClVy">
     <mxGraphModel dx="1173" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="98emovbbX15mmAf7MSLc-15" value="배포작업 등록" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="320" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="98emovbbX15mmAf7MSLc-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="98emovbbX15mmAf7MSLc-18" target="98emovbbX15mmAf7MSLc-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
